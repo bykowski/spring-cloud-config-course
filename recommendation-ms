@@ -5,3 +5,4 @@ spring.datasource.password=hv9p23r452gYKrtngAeQ
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.sql.init.mode=always
+
